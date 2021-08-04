@@ -19,17 +19,20 @@
 
 ## 图片
 
-<img src="https://caseyfu.github.io/resource/log/2021080401loginflow.png"  style="display:block;width:50%;margin:10px auto;box-shadow: 0 0 8px 2px rgba(180, 180, 180, 0.8);" />
+<img
+  src="https://caseyfu.github.io/resource/log/2021080401loginflow.svg"
+  style="display:block;width:60%;margin:10px auto;padding:20px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);"
+/>
 
 ```html
 <img
-  src="https://caseyfu.github.io/resource/log/2021080401loginflow.png"
-  style="display:block;width:50%;margin:10px auto;box-shadow: 0 0 8px 2px rgba(180, 180, 180, 0.8);"
+  src="https://caseyfu.github.io/resource/log/2021080401loginflow.svg"
+  style="display:block;width:60%;margin:10px auto;padding:20px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);"
 />
 
 <span style="color:red">Text</span>
 ```
 
-```
+## 日志
 
-```
+https://caseyfu.github.io/resource/log
