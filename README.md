@@ -19,14 +19,12 @@
 
 ## 图片
 
-<img
-  src="https://caseyfu.github.io/resource/log/2021080401loginflow.svg"
-  style="display:block;width:60%;margin:10px auto;padding:20px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);"
-/>
+<img src="https://caseyfu.github.io/resource/log/2021080401loginflow.svg" onerror="this.src='https://caseyfu.github.io/resource/404.svg'" style="display:block;width:60%;margin:10px auto;padding:20px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);" />
 
 ```html
 <img
   src="https://caseyfu.github.io/resource/log/2021080401loginflow.svg"
+  onerror="this.src='https://caseyfu.github.io/resource/404.svg'"
   style="display:block;width:60%;margin:10px auto;padding:20px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);"
 />
 
