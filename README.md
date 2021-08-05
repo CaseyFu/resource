@@ -21,12 +21,16 @@
 
 <img
   src="https://caseyfu.github.io/resource/log/2021080401loginflow.svg"
+  onerror="this.onerror=null;this.src='https://caseyfu.gitee.io/img/404.svg'"
+  alt="HR综合管理平台登录流程图"
   style="display:block;width:60%;margin:10px auto;padding:20px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);"
 />
 
 ```html
 <img
   src="https://caseyfu.github.io/resource/log/2021080401loginflow.svg"
+  onerror="this.onerror=null;this.src='https://caseyfu.gitee.io/img/404.svg'"
+  alt="HR综合管理平台登录流程图"
   style="display:block;width:60%;margin:10px auto;padding:20px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);"
 />
 
